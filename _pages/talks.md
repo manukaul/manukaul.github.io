@@ -43,7 +43,7 @@ font-style: italic
 	<h2 class="year">Dec 2020</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/nips.webp">
+    		<img width="100%" src="/assets/img/talks/nips.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -53,7 +53,7 @@ font-style: italic
 	</div>
 	<div class="row">
 		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/nips.webp">
+    		<img width="100%" src="/assets/img/talks/nips.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -66,7 +66,7 @@ font-style: italic
 	<h2 class="year">Jul 2019</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/dalian.webp">
+    		<img width="100%" src="/assets/img/talks/dalian.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -80,7 +80,7 @@ font-style: italic
 	<h2 class="year">Jul 2019</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/dalian.webp">
+    		<img width="100%" src="/assets/img/talks/dalian.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -93,7 +93,7 @@ font-style: italic
 	<h2 class="year">Jun 2018</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/shinshu.webp">
+    		<img width="100%" src="/assets/img/talks/shinshu.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -106,7 +106,7 @@ font-style: italic
 	<h2 class="year">Sep 2017</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/ibm.webp">
+    		<img width="100%" src="/assets/img/talks/ibm.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -119,7 +119,7 @@ font-style: italic
 	<h2 class="year">Sep 2016</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/vldb.webp">
+    		<img width="100%" src="/assets/img/talks/vldb.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -132,7 +132,7 @@ font-style: italic
 	<h2 class="year">May 2016</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/iitmandi.webp">
+    		<img width="100%" src="/assets/img/talks/iitmandi.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -145,7 +145,7 @@ font-style: italic
 	<h2 class="year">Nov 2015</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/iitbombay.webp">
+    		<img width="100%" src="/assets/img/talks/iitbombay.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -158,7 +158,7 @@ font-style: italic
 	<h2 class="year">Apr 2015</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/amazon.webp">
+    		<img width="100%" src="/assets/img/talks/amazon.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -171,7 +171,7 @@ font-style: italic
 	<h2 class="year">Apr 2014</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/chalmers.webp">
+    		<img width="100%" src="/assets/img/talks/chalmers.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">
@@ -184,7 +184,7 @@ font-style: italic
 	<h2 class="year">Jun 2013</h2>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/talks/mdm.webp">
+    		<img width="100%" src="/assets/img/talks/mdm.webp" alt="image" alt="image">
   		</div>
 
   		<div class="col-sm-8">

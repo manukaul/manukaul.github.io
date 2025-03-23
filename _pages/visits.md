@@ -23,7 +23,7 @@ font-style: italic
 <div class="publications">
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/visits/hebei.webp">
+    		<img width="100%" src="/assets/img/visits/hebei.webp" alt="image" alt="image">
   		</div>
   		<div class="col-sm-8">
       			<div class="position">Invited Foreign Researcher</div>
@@ -34,7 +34,7 @@ font-style: italic
 <hr>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/visits/shinshu.webp">
+    		<img width="100%" src="/assets/img/visits/shinshu.webp" alt="image" alt="image">
   		</div>
   		<div class="col-sm-8">
       			<div class="position">Visiting Foreign Researcher</div>
@@ -45,7 +45,7 @@ font-style: italic
 <hr>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/visits/ism.webp">
+    		<img width="100%" src="/assets/img/visits/ism.webp" alt="image" alt="image">
   		</div>
   		<div class="col-sm-8">
       			<div class="position">Visiting Foreign Researcher</div>
@@ -56,7 +56,7 @@ font-style: italic
 <hr>
 	<div class="row">
   		<div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/visits/hkust.webp">
+    		<img width="100%" src="/assets/img/visits/hkust.webp" alt="image" alt="image">
   		</div>
   		<div class="col-sm-8">
       			<div class="position">Visiting Ph.D.</div>

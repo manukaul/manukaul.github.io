@@ -18,15 +18,9 @@ description:
       <div class="col-sm-10">
         <h5 class="font-weight-bold">CS3563 Introduction to DBMS II</h5>
       </div>
-      <!-- <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark darken-1 text-uppercase align-middle"  href="https:" target="_blank"> Running </span>
-      </div> -->
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">January - April 2021</h6>
     <p>Advanced SQL (procedures/functions/triggers), Database design and normal forms, Database application development, Storage structures and indexing/hashing, Query processing and optimization, Transactions, Lock-based concurrency control.</p>
-    <!-- <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"></li>
-    </ul> -->
   </div>
 </div>
 

@@ -26,7 +26,7 @@ margin-top: 3rem;
 	<div class="y"><div class="y"><h2 class="year">2021</h2></div></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/icml.webp">
+    		<img width="100%" src="/assets/img/service/icml.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -35,7 +35,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/icml.webp">
+    		<img width="100%" src="/assets/img/service/icml.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -45,7 +45,7 @@ margin-top: 3rem;
 
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/icml.webp">
+    		<img width="100%" src="/assets/img/service/icml.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -58,7 +58,7 @@ margin-top: 3rem;
 
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/icml.webp">
+    		<img width="100%" src="/assets/img/service/icml.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -67,7 +67,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/aaai.webp">
+    		<img width="100%" src="/assets/img/service/aaai.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -77,7 +77,7 @@ margin-top: 3rem;
 	<div class="y"><h2 class="year">2020</h2></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/tkde.webp">
+    		<img width="100%" src="/assets/img/service/tkde.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -86,7 +86,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/emnlp.webp">
+    		<img width="100%" src="/assets/img/service/emnlp.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -95,7 +95,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/acl.webp">
+    		<img width="100%" src="/assets/img/service/acl.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -104,7 +104,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/nips.webp">
+    		<img width="100%" src="/assets/img/service/nips.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -114,7 +114,7 @@ margin-top: 3rem;
 	<div class="y"><h2 class="year">2019</h2></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/acl.webp">
+    		<img width="100%" src="/assets/img/service/acl.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -123,7 +123,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/nips.webp">
+    		<img width="100%" src="/assets/img/service/nips.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -133,7 +133,7 @@ margin-top: 3rem;
 	<div class="y"><h2 class="year">2018</h2></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/nips.webp">
+    		<img width="100%" src="/assets/img/service/nips.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -142,7 +142,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/ieee.webp">
+    		<img width="100%" src="/assets/img/service/ieee.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -152,7 +152,7 @@ margin-top: 3rem;
 	<div class="y"><h2 class="year">2017</h2></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/tkde.webp">
+    		<img width="100%" src="/assets/img/service/tkde.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -170,7 +170,7 @@ margin-top: 3rem;
 	<div class="y"><h2 class="year">2014</h2></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/edbt.webp">
+    		<img width="100%" src="/assets/img/service/edbt.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -179,7 +179,7 @@ margin-top: 3rem;
 	</div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/icde.webp">
+    		<img width="100%" src="/assets/img/service/icde.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -189,7 +189,7 @@ margin-top: 3rem;
 <div class="y"><h2 class="year">2013</h2></div>
 <div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/cikm.webp">
+    		<img width="100%" src="/assets/img/service/cikm.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">
@@ -205,7 +205,7 @@ margin-top: 3rem;
 	<div class="y"><h2 class="year">2015</h2></div>
 	<div class="row">
   		<!-- <div class="col-sm-2 abbr">
-    		<img width="100%" src="/assets/img/service/cprml.webp">
+    		<img width="100%" src="/assets/img/service/cprml.webp" alt="image" alt="image">
   		</div> -->
 
   		<div class="col-sm-8">

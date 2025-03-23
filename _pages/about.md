@@ -10,7 +10,7 @@ social: true
 
 
 <div style="float: left; margin: 0 20px 20px 0; text-align: center;">
-  <img src="/assets/img/prof_pic.jpg" alt="Manohar Kaul" width="180" style="border-radius: 10px;"/>
+  <img src="/assets/img/prof_pic.jpg" alt="Manohar Kaul" width="180" style="border-radius: 10px;"/ alt="image" alt="image">
   <p style="margin-top: 10px; font-size: 0.85em; color: #1a73e8;">
     manohar [dot] kaul [@] fujitsu [dot] com
   </p>
