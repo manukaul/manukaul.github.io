@@ -5,6 +5,7 @@ title: Awards
 description:
 nav: true
 ---
+
 <style>
 @media screen and (max-width: 575px) {
   .y{
@@ -14,9 +15,6 @@ nav: true
 </style>
 
 <meta name="description" content="Travel Fellowship, Best Paper Award, Outstanding Academic Achivement, Golden Key Society" />
-
-
-
 
 <div class="publications">
 	<div class="y"><h2 class="year">2016</h2></div>

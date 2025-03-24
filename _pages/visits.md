@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-
 <style>
 .position, .university{
 font-weight: bold;
@@ -18,7 +17,6 @@ font-style: italic
 </style>
 
 <hr>
-
 
 <div class="publications">
 	<div class="row">

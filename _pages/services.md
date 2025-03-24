@@ -43,7 +43,8 @@ margin-top: 3rem;
   		</div>
 	</div>
 
-	<div class="row">
+    <div class="row">
+
   		<!-- <div class="col-sm-2 abbr">
     		<img width="100%" src="/assets/img/service/icml.webp" alt="image" alt="image">
   		</div> -->
@@ -53,10 +54,10 @@ margin-top: 3rem;
 					  <a href="https://2021.emnlp.org/" target="_blank">EMNLP</a> 2021)</div>
   		</div>
 	</div>
-	
 
 
-	<div class="row">
+    <div class="row">
+
   		<!-- <div class="col-sm-2 abbr">
     		<img width="100%" src="/assets/img/service/icml.webp" alt="image" alt="image">
   		</div> -->
@@ -161,7 +162,6 @@ margin-top: 3rem;
 	</div>
 
 </div>
-
 
 <hr>
 <div class="y"><h2 class="head">External Reviewer</h2></div>

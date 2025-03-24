@@ -12,10 +12,11 @@ twitter:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
+
 <p class="content">
 I am an Associate professor in the <a href="https://cse.iith.ac.in/" target="blank">Department of Computer Science and Engineering (CSE)</a> at the <a href="https://iith.ac.in/" target="blank">Indian Institute of Technology, Hyderabad (IIT-H)</a>, where I head the <a href="https://krama.cse.iith.ac.in" target="blank"> क्रम (Krama) Lab</a>. My research interests are geometric machine learning (graph and point-cloud representation learning), optimal transport (discrete OT and assignment problems) and applied algebraic topology (topological data analysis). My work involves developing practical machine learning algorithms with rigorous theoretical foundations. 
 </p>
