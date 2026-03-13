@@ -205,17 +205,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2023/07/12/post-bibliography.html";
         
       },
-    },{id: "post-a-post-with-jupyter-notebook",
-      
-        title: "a post with jupyter notebook",
-      
-      description: "an example of a blog post with jupyter notebook",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2023/07/04/jupyter-notebook.html";
-        
-      },
     },{id: "post-a-post-with-custom-blockquotes",
       
         title: "a post with custom blockquotes",
